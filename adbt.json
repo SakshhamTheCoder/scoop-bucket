@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/SakshhamTheCoder/adbt/releases/download/v0.1.0/adbt_Windows_x86_64.zip",
+            "bin": [
+                "adbt.exe"
+            ],
+            "hash": "1bebc46bc3f707e37f46578fcfe3f8e20e9b1396725d15d5e42dbb6e0d0c23a5"
+        },
+        "arm64": {
+            "url": "https://github.com/SakshhamTheCoder/adbt/releases/download/v0.1.0/adbt_Windows_arm64.zip",
+            "bin": [
+                "adbt.exe"
+            ],
+            "hash": "bb37418feac1cab429b7ce6077e8c6f4fa034351e9b595becafe7357165d3d99"
+        }
+    },
+    "homepage": "https://github.com/SakshhamTheCoder/adbt",
+    "license": "MIT",
+    "description": "A modern, keyboard-driven Android Debug Bridge TUI."
+}
