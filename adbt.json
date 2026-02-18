@@ -6,14 +6,14 @@
             "bin": [
                 "adbt.exe"
             ],
-            "hash": "329ddaf719693620bfc0f1d3afe90bb94e9cda4ef56cb1450108edb69c0a01f5"
+            "hash": "7cf1eb260ea4cb6a36f1d1d09b4b69d08a292a837a908b37b2564e3f7705825b"
         },
         "arm64": {
             "url": "https://github.com/SakshhamTheCoder/adbt/releases/download/v0.1.0/adbt_Windows_arm64.zip",
             "bin": [
                 "adbt.exe"
             ],
-            "hash": "57f6ed7861f2ac6003a66a2ac6a4bcb998c71b75d07ad662e51feef142062fb3"
+            "hash": "2b4c80670ad6af2d0c6fe47a36bbe277ba860fffc922f8bc447746cc57c1537a"
         }
     },
     "homepage": "https://github.com/SakshhamTheCoder/adbt",
