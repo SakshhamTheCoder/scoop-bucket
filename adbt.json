@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SakshhamTheCoder/adbt/releases/download/v0.1.0/adbt_Windows_x86_64.zip",
+            "url": "https://github.com/SakshhamTheCoder/adbt/releases/download/v0.2.0/adbt_Windows_x86_64.zip",
             "bin": [
                 "adbt.exe"
             ],
-            "hash": "b6337bbf697ddb22be2ff03a0d34543fccbb70931d0a39a13bbf4ccbe3741f3f"
+            "hash": "3778c87e71e754154c1391ade7ff2e3080f4889b482c191cf6f6e2b7d30803ce"
         },
         "arm64": {
-            "url": "https://github.com/SakshhamTheCoder/adbt/releases/download/v0.1.0/adbt_Windows_arm64.zip",
+            "url": "https://github.com/SakshhamTheCoder/adbt/releases/download/v0.2.0/adbt_Windows_arm64.zip",
             "bin": [
                 "adbt.exe"
             ],
-            "hash": "1c7a11b0fc66246573dd8fe32624cf5591791d1f3d7ee557fd3d9e87090b408d"
+            "hash": "6eae2c51ef8307b8475d7af70ef07c4a54753455d3b8a953bc500362b11b05cd"
         }
     },
     "homepage": "https://github.com/SakshhamTheCoder/adbt",
