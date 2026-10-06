@@ -1,22 +1,22 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SakshhamTheCoder/adbt/releases/download/v0.2.0/adbt_Windows_x86_64.zip",
+            "url": "https://github.com/SakshhamTheCoder/adbt/releases/download/v0.2.1/adbt_Windows_x86_64.zip",
             "bin": [
                 "adbt.exe"
             ],
-            "hash": "3778c87e71e754154c1391ade7ff2e3080f4889b482c191cf6f6e2b7d30803ce"
+            "hash": "b9eb775ac29c1ad4e376db9994dbbe8f71b6c8609ea06a226196629f1a367834"
         },
         "arm64": {
-            "url": "https://github.com/SakshhamTheCoder/adbt/releases/download/v0.2.0/adbt_Windows_arm64.zip",
+            "url": "https://github.com/SakshhamTheCoder/adbt/releases/download/v0.2.1/adbt_Windows_arm64.zip",
             "bin": [
                 "adbt.exe"
             ],
-            "hash": "6eae2c51ef8307b8475d7af70ef07c4a54753455d3b8a953bc500362b11b05cd"
+            "hash": "008a73b084a84f56f710ddee76347866e8f1116c324be95c8273c3be1279789a"
         }
     },
     "homepage": "https://github.com/SakshhamTheCoder/adbt",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "description": "A modern, keyboard-driven Android Debug Bridge TUI."
 }
